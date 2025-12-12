@@ -1,7 +1,7 @@
 Summary:	MATE desktop tweak tool
 Name:		mate-tweak
 Version:	22.10.0
-Release:	1
+Release:	2
 License:	GPL-2.0-or-later
 Group:		Graphical desktop/Other
 URL:		https://github.com/ubuntu-mate/mate-tweak
