@@ -1,7 +1,7 @@
 Summary:	MATE desktop tweak tool
 Name:		mate-tweak
 Version:	22.10.0
-Release:	3
+Release:	4
 License:	GPL-2.0-or-later
 Group:		Graphical desktop/Other
 URL:		https://github.com/ubuntu-mate/mate-tweak
@@ -13,7 +13,7 @@ BuildRequires:	dconf
 BuildRequires:	fdupes
 BuildRequires:	gobject-introspection-devel
 BuildRequires:	intltool
-BuildRequires:	pkgconfig(python)
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(configobj)
 BuildRequires:	python%{pyver}dist(pygobject)
 BuildRequires:	python%{pyver}dist(python-distutils-extra)
